@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><svg
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="-10 -10 30 30"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="171" viewBox="96 156 640 171"
 ><defs><style>
     /*
 Embedded open source font (Roboto Condensed) licensed under the SIL Open Font License, Version 1.1: https://openfontlicense.org
@@ -166,4 +166,25 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
       color: hsl(12, 4.2%, 23.3%);
       text-decoration: underline;
     }
-  </style></defs></svg>
+  </style></defs><g transform="translate(150,215)" data-node-id="root:8"><g><svg><g fill="hsl(0, 0%, 53.3%)"><rect width="32" height="32" rx="2" fill="hsl(220, 4.3%, 86.5%)" /><path d="M0 2C0 0.895431 0.895431 0 2 0H8V2H2.75C2.33579 2 2 2.33579 2 2.75V8H0V2Z
+        M2 24H0V30C0 31.1046 0.895431 32 2 32H8V30H2.75C2.33579 30 2 29.6642 2 29.25V24Z
+        M24 30V32H30C31.1046 32 32 31.1046 32 30V24H30V29.25C30 29.6642 29.6642 30 29.25 30H24Z
+        M30 8H32V2C32 0.895431 31.1046 0 30 0H24V2H29.25C29.6642 2 30 2.33579 30 2.75V8Z" /><rect x="13" width="6" height="2" /><rect x="13" y="30" width="6" height="2" /><rect y="13" width="2" height="6" /><rect x="30" y="13" width="2" height="6" /></g></svg></g><g></g><g><g transform="translate(36.5,16.0)"><polygon points="-3.800,-3.367 2.935,0 -3.800,3.367" fill="hsl(0, 3%, 12%)" stroke="hsl(0, 3%, 12%)" stroke-width="1.4" /><g><g transform="translate(-5.5, 0)" fill="none"><circle r="3.75" fill="white" /><circle r="3" fill="hsl(357, 72%, 45%)" /><path fill="none"
+            d="M2.5,0a1,1 0 0 0 -5,0a1,1 0 0 0 5,0"
+            stroke="hsl(348, 94%, 21%)" 
+          /></g></g></g></g><foreignObject x="-44.0" y="-49.0" width="120.0" height="42.0"><div xmlns="http://www.w3.org/1999/xhtml" class="node-name"><div>Data Ingestion and Preprocessing</div></div></foreignObject></g><g transform="translate(640,225)" data-node-id="root:15"><g><svg><g fill="hsl(0, 0%, 53.3%)"><rect width="32" height="32" rx="2" fill="hsl(220, 4.3%, 86.5%)" /><path d="M0 2C0 0.895431 0.895431 0 2 0H8V2H2.75C2.33579 2 2 2.33579 2 2.75V8H0V2Z
+        M2 24H0V30C0 31.1046 0.895431 32 2 32H8V30H2.75C2.33579 30 2 29.6642 2 29.25V24Z
+        M24 30V32H30C31.1046 32 32 31.1046 32 30V24H30V29.25C30 29.6642 29.6642 30 29.25 30H24Z
+        M30 8H32V2C32 0.895431 31.1046 0 30 0H24V2H29.25C29.6642 2 30 2.33579 30 2.75V8Z" /><rect x="13" width="6" height="2" /><rect x="13" y="30" width="6" height="2" /><rect y="13" width="2" height="6" /><rect x="30" y="13" width="2" height="6" /></g></svg></g><g></g><g><g transform="translate(-4.5,5.5)"><rect width="7.6" height="7.6" x="-3.8" y="-3.8" fill="#1469AF" stroke="#1469AF" stroke-width="1.4" /></g><g transform="translate(-4.5,16.0)"><rect width="7.6" height="7.6" x="-3.8" y="-3.8" fill="#1469AF" stroke="#1469AF" stroke-width="1.4" /></g><g transform="translate(-4.5,26.5)"><rect width="7.6" height="7.6" x="-3.8" y="-3.8" fill="#9B9B9B" stroke="#9B9B9B" stroke-width="1.4" /></g></g><foreignObject x="-44.0" y="-49.0" width="120.0" height="42.0"><div xmlns="http://www.w3.org/1999/xhtml" class="node-name"><div>Scoring and Deployment</div></div></foreignObject></g><g transform="translate(405,275)" data-node-id="root:12"><g><svg><g fill="hsl(0, 0%, 53.3%)"><rect width="32" height="32" rx="2" fill="hsl(220, 4.3%, 86.5%)" /><path d="M0 2C0 0.895431 0.895431 0 2 0H8V2H2.75C2.33579 2 2 2.33579 2 2.75V8H0V2Z
+        M2 24H0V30C0 31.1046 0.895431 32 2 32H8V30H2.75C2.33579 30 2 29.6642 2 29.25V24Z
+        M24 30V32H30C31.1046 32 32 31.1046 32 30V24H30V29.25C30 29.6642 29.6642 30 29.25 30H24Z
+        M30 8H32V2C32 0.895431 31.1046 0 30 0H24V2H29.25C29.6642 2 30 2.33579 30 2.75V8Z" /><rect x="13" width="6" height="2" /><rect x="13" y="30" width="6" height="2" /><rect y="13" width="2" height="6" /><rect x="30" y="13" width="2" height="6" /></g></svg></g><g></g><g><g transform="translate(-4.5,16.0)"><polygon points="-3.800,-3.367 2.935,0 -3.800,3.367" fill="hsl(0, 3%, 12%)" stroke="hsl(0, 3%, 12%)" stroke-width="1.4" /></g><g transform="translate(36.5,5.5)"><rect width="7.6" height="7.6" x="-3.8" y="-3.8" fill="#1469AF" stroke="#1469AF" stroke-width="1.4" /><g><g transform="translate(-5.5, 0)" fill="none"><circle r="3.75" fill="white" /><circle r="3" fill="hsl(357, 72%, 45%)" /><path fill="none"
+            d="M2.5,0a1,1 0 0 0 -5,0a1,1 0 0 0 5,0"
+            stroke="hsl(348, 94%, 21%)" 
+          /></g></g></g><g transform="translate(36.5,16.0)"><rect width="7.6" height="7.6" x="-3.8" y="-3.8" fill="#1469AF" stroke="#1469AF" stroke-width="1.4" /><g><g transform="translate(-5.5, 0)" fill="none"><circle r="3.75" fill="white" /><circle r="3" fill="hsl(357, 72%, 45%)" /><path fill="none"
+            d="M2.5,0a1,1 0 0 0 -5,0a1,1 0 0 0 5,0"
+            stroke="hsl(348, 94%, 21%)" 
+          /></g></g></g><g transform="translate(36.5,26.5)"><rect width="7.6" height="7.6" x="-3.8" y="-3.8" fill="#9B9B9B" stroke="#9B9B9B" stroke-width="1.4" /><g><g transform="translate(-5.5, 0)" fill="none"><circle r="3.75" fill="white" /><circle r="3" fill="hsl(357, 72%, 45%)" /><path fill="none"
+            d="M2.5,0a1,1 0 0 0 -5,0a1,1 0 0 0 5,0"
+            stroke="hsl(348, 94%, 21%)" 
+          /></g></g></g></g><foreignObject x="-44.0" y="-49.0" width="120.0" height="42.0"><div xmlns="http://www.w3.org/1999/xhtml" class="node-name"><div>Model Training and Evaluation</div></div></foreignObject></g><g fill="none" stroke-width="1" stroke="hsl(0, 0%, 53.3%)" data-connector-id="root:12_0"><path d="M190.50,231.00 C257.00,231.00 330.00,291.00 396.50,291.00" /></g><g fill="none" stroke-width="1" stroke="hsl(0, 0%, 53.3%)" data-connector-id="root:15_1"><path d="M445.50,291.00 C504.50,291.00 572.50,241.00 631.50,241.00" /></g><g fill="none" stroke-width="1" stroke="hsl(0, 0%, 53.3%)" data-connector-id="root:15_2"><path d="M445.50,301.50 C504.50,301.50 572.50,251.50 631.50,251.50" /></g><g fill="none" stroke-width="1" stroke="hsl(0, 0%, 53.3%)" data-connector-id="root:15_0"><path d="M445.50,280.50 C504.50,280.50 572.50,230.50 631.50,230.50" /></g></svg>
