@@ -15,9 +15,10 @@
                     <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <entry key="is_null" type="xboolean" value="false"/>
                 </config>
-                <entry key="customOrMissingValue" type="xstring" value="MISSING"/>
+                <entry key="customOrMissingValue" type="xstring" value="CUSTOM"/>
                 <config key="customValueParameters">
-                    <entry key="@class" type="xstring" isnull="true" value=""/>
+                    <entry key="@class" type="xstring" value="org.knime.core.webui.node.dialog.defaultdialog.internal.dynamic.extensions.createcell.CoreCreateDataCellParameters$FromStringCellParameters"/>
+                    <entry key="value" type="xstring" value=""/>
                 </config>
             </config>
         </config>
@@ -50,6 +51,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="01713a52-944f-4392-9a48-55cd221753eb"/>
+        <entry key="file_store_id" type="xstring" value="c294e719-c51c-41e1-86c8-85237a66a9f8"/>
     </config>
 </config>
